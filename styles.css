@@ -200,7 +200,7 @@ body{
     margin-left: 9vw;
     margin-top: 5px;
     margin-bottom: 5px;
-    background-image: url(/assets/logiño.png);
+    background-image: url(./assets/logiño.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -295,7 +295,7 @@ body{
     width: 25vw;
     height: 420px;
     background-color: var(--color-four);
-    background-image: url(/assets/image-removebg-preview.png);
+    background-image: url(./assets/image-removebg-preview.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -662,7 +662,7 @@ body{
 
 .visualizer-main-superior{
     display: flex;
-    background-image: url(/assets/Imagenhoja.png);
+    background-image: url(./assets/Imagenhoja.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
